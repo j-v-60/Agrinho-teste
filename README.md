@@ -1,4 +1,4 @@
-# �� Terra do Amanhã | Acessibilidade & Sustentabilidade
+# ♥  Terra do Amanhã | Acessibilidade & Sustentabilidade
 
 Uma landing page que explora o futuro do agronegócio sustentável. O projeto une um design sofisticado (estilo editorial) com recursos robustos de inclusão digital.
 
@@ -32,7 +32,6 @@ O projeto conta com um painel de controle exclusivo que permite:
 |---------------|----------------------------------------------------|
 | `index.html`  | Arquivo principal (Estrutura, Estilo e Lógica)     |
 | `README.md`   | Documentação do projeto                          |
-README.md
-index.html
-script.js
-style.css
+| `script.js`   | outro                          |
+| `style.css`   | outro                         |
+
